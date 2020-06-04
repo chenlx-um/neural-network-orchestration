@@ -4,5 +4,5 @@ We provide codes and the supplementary materials for the paper "Seek Common Whil
 # Supplementary Materials/Online Appendix
 Please find supplementary materials for the paper (supp_file.pdf) in the above repository. It contains pseudocodes and proofs referred in the manuscript. 
 
-# Code
-Since the paper is in the peer-review process, we only provide part of the code. Full code will be released after the paper is accepted.  
+# Code/Environment of Edge Computing Systems 
+Since the paper is in the peer-review process, we only provide part of the code, the environment of edge computing systems. Full code will be released after the paper is accepted.  
